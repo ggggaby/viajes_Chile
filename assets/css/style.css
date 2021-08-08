@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.p-3 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 0,5px;
+    width: 100%;
+    border-top: 3px solid rgb(6, 192, 224);
+}
+#destacados {
+    background-color: black;
+}
+#who {
+    background-color: black;
+}
+.card {
+    background-color: black;
+}
