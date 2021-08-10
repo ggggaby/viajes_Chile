@@ -1,7 +1,8 @@
-* #tooltip {
+*  {
     margin: 0;
     padding: 0;
     font-family: 'Raleway', sans-serif;
+    box-sizing: border-box;
 }
 .p-3 {
     margin-top: 5px;
